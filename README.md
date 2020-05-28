@@ -1,2 +1,0 @@
-# nasaPicOfDay
-Created with CodeSandbox
